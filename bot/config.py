@@ -2,9 +2,9 @@ class config:
     BOT_TOKEN = "1417390384:AAFZpqfzSSDuJbEC8RWMTCDtsyOuA8VgEQw"
     APP_ID = "2487912"
     API_HASH = "4d70c1c7b96f3de13c721f2ea5978fbb"
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    DATABASE_URL = "postgres://dlfcrpzfpnyaif:a1cf54a64bb8ec841ee9a13dfb8b707b0cde6eb4c40c7dd3aaafbc8e9f9f80d5@ec2-3-210-23-22.compute-1.amazonaws.com:5432/d1o8vtft6cd8vl"
+    SUDO_USERS = "472073594" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/imhndev"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
